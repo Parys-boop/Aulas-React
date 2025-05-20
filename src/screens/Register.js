@@ -44,7 +44,7 @@ const Register = () => {
                     </span>
                     <input type="text" name="displayName" required placeholder="Nome do Usuário" />
                     value={displayName}
-                    onChange={(e) => DisplayName(e.target.value)}
+                    onChange={(e) => displayName(e.target.value)}
                 </label>
                 <label>
                     <span>

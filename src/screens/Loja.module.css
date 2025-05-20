@@ -1,0 +1,30 @@
+.title {
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 24px;
+    color: #df9430;
+    letter-spacing: 1px;
+}
+
+.input {
+    padding: 10px;
+    margin-top: 4px;
+    border: none;
+    border-radius: 8px;
+    border-color: #111;
+    color: #fff;
+    outline: 1px solid #444;
+    transition: 0.3s;
+}
+
+.button {
+    margin-top: 20px;
+    padding: 12px;
+    background-color: #dbb82b;
+    color: #111;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}

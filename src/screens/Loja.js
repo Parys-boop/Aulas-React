@@ -8,7 +8,7 @@ const Loja = () => {
             <form>
                 <label>
                     <span>Nome:</span>
-                    <input type="text" className={styles.input} />
+                    <input type="text" className={styles.input} required/>
                 </label>
 
                 <label>

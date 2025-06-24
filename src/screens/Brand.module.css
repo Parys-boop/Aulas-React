@@ -1,0 +1,54 @@
+.formWrapper {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background-color: #f9f9f9;
+}
+ 
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+ 
+.btn {
+  padding: 10px;
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+ 
+.btnEdit {
+  margin-left: 10px;
+  background-color: #007bff;
+  color: white;
+}
+ 
+.btnDelete {
+  margin-left: 10px;
+  background-color: #dc3545;
+  color: white;
+}
+ 
+.searchInput {
+  margin-top: 20px;
+  padding: 8px;
+  width: 100%;
+}
+ 
+.list {
+  list-style: none;
+  padding: 0;
+}
+ 
+.list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid #ccc;
+}

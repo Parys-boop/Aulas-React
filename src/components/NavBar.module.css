@@ -4,31 +4,32 @@
     justify-content: space-between;
     align-items: center;
     padding: .5em, .2em;
-  }
-   
-  .brand {
+ }
+ 
+ .brand {
      font-size: 1.2em;
-  }
-   
-  .brand span {
+ }
+ 
+ .brand span {
      font-weight: 900;
      text-transform: uppercase;
-  }
-   
-  .links_list {
+ }
+ 
+ .links_list {
      display: flex;
      list-style: none;
-  }
-   
-  .links_list {
+ }
+ 
+ .links_list {
      margin-right: 1em;
-  }
-   
-  .links_list li a {
+ }
+ 
+ .links_list li a {
      padding: .4em .6em;
-  }
-   
-  .active {
+ }
+ 
+ .active {
      background-color: #000;
      color: #fff
-  }
+ }
+ 
